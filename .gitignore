@@ -1,0 +1,5 @@
+.pilot.ipynb/
+.cleaning_1.ipynb/
+adult_venv/
+*.log
+
